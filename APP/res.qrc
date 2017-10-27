@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/tt.JPG</file>
+        <file>img/touch.png</file>
+        <file>img/bugle.png</file>
+        <file>img/light.png</file>
+        <file>img/lighting.png</file>
+        <file>img/buglePressed.png</file>
+        <file>img/lightPressed.png</file>
+        <file>img/background.png</file>
+        <file>img/ctlBackground.png</file>
+    </qresource>
+</RCC>
