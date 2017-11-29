@@ -9,5 +9,6 @@
         <file>img/lightPressed.png</file>
         <file>img/background.png</file>
         <file>img/ctlBackground.png</file>
+        <file>img/icon.png</file>
     </qresource>
 </RCC>

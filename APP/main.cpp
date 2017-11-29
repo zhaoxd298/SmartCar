@@ -19,7 +19,9 @@ int main(int argc, char *argv[])
 
     w.resize(screenRect.x(), screenRect.y());
     */
+    w.setWindowIcon(QIcon("://img/icon.png"));
     w.show();
+
     //w.showMaximized();
 
 
